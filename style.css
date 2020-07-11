@@ -982,7 +982,8 @@ body{
     border-radius: 25px;
     padding: 15px;
     transition: all 1s ease;
-    display:none
+    
+    display: none;
 }
 .contact .container .form .form-input .send {
     width: 195px;
